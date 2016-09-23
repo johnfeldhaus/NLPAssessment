@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tokenizedOutput>
+    <sentences>
+        <sentence>
+            <tokens>
+                <token>
+                    <text>The</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>term</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>"</text>
+                </token>
+                <token>
+                    <text>First</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>World</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>War</text>
+                </token>
+                <token>
+                    <text>"</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>was</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>first</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>used</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>in</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>September</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>1914</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>by</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>the</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>German</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>philosopher</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>Ernst</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>Haeckel</text>
+                </token>
+                <token>
+                    <text>,</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>who</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>claimed</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>that</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>"</text>
+                </token>
+                <token>
+                    <text>there</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>is</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>no</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>doubt</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>that</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>the</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>course</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>and</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>character</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>of</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>the</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>feared</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>'</text>
+                </token>
+                <token>
+                    <text>European</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>War</text>
+                </token>
+                <token>
+                    <text>'</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>.</text>
+                </token>
+                <token>
+                    <text>.</text>
+                </token>
+                <token>
+                    <text>.</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>will</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>become</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>the</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>first</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>world</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>war</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>in</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>the</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>full</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>sense</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>of</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>the</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>word</text>
+                </token>
+                <token>
+                    <text>.</text>
+                </token>
+                <token>
+                    <text>"</text>
+                </token>
+                <token>
+                    <text>
+</text>
+                </token>
+                <token>
+                    <text>
+</text>
+                </token>
+                <token>
+                    <text>Why</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>did</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>the</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>war</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>begin</text>
+                </token>
+                <token>
+                    <text>?</text>
+                </token>
+            </tokens>
+        </sentence>
+        <sentence>
+            <tokens>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>The</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>immediate</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>trigger</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>for</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>war</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>was</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>the</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>28</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>June</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>1914</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>assassination</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>of</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>Archduke</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>Franz</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>Ferdinand</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>of</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>Austria</text>
+                </token>
+                <token>
+                    <text>,</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>heir</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>to</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>the</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>throne</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>of</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>Austria</text>
+                </token>
+                <token>
+                    <text>-</text>
+                </token>
+                <token>
+                    <text>Hungary</text>
+                </token>
+                <token>
+                    <text>,</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>by</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>Yugoslav</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>nationalist</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>Gavrilo</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>Princip</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>(</text>
+                </token>
+                <token>
+                    <text>19</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>years</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>old</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>at</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>the</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>time</text>
+                </token>
+                <token>
+                    <text>)</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>in</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>Sarajevo</text>
+                </token>
+                <token>
+                    <text>.</text>
+                </token>
+            </tokens>
+        </sentence>
+        <sentence>
+            <tokens>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>This</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>set</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>off</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>a</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>diplomatic</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>crisis</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>when</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>Austria</text>
+                </token>
+                <token>
+                    <text>-</text>
+                </token>
+                <token>
+                    <text>Hungary</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>delivered</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>an</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>ultimatum</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>to</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>the</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>Kingdom</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>of</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>Serbia</text>
+                </token>
+                <token>
+                    <text>,</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>and</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>entangled</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>international</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>alliances</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>formed</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>over</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>the</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>previous</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>decades</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>were</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>invoked</text>
+                </token>
+                <token>
+                    <text>.</text>
+                </token>
+            </tokens>
+        </sentence>
+        <sentence>
+            <tokens>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>Within</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>weeks</text>
+                </token>
+                <token>
+                    <text>,</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>the</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>major</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>powers</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>were</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>at</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>war</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>and</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>the</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>conflict</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>soon</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>spread</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>around</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>the</text>
+                </token>
+                <token>
+                    <text> </text>
+                </token>
+                <token>
+                    <text>world</text>
+                </token>
+                <token>
+                    <text>.</text>
+                </token>
+            </tokens>
+        </sentence>
+    </sentences>
+</tokenizedOutput>
