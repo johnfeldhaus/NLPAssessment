@@ -49,8 +49,7 @@ public class NamedEntityFinderTest {
 	@Test
 	public void givenTwoEntities_andThreeTokens_thatMatchBothEntities_shouldReturnSingleTokenAsLongestNamedEntity() {
 		// "a b" matches named entity "a " and named entity "a b", but our
-		// algorithm
-		// should choose the longest match
+		// algorithm should choose the longest match
 		assertEquals(tokens(namedEntityToken("a b")),
 				findNamedEntities(tokens("a", " ", "b"), entities(tokens("a", " "), tokens("a", " ", "b"))));
 	}

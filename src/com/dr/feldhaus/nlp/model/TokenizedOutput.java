@@ -4,12 +4,10 @@ import java.util.ArrayList;
 import java.util.List;
 
 import javax.xml.bind.annotation.XmlElement;
-import javax.xml.bind.annotation.XmlElementWrapper;
 import javax.xml.bind.annotation.XmlRootElement;
 
 @XmlRootElement
 public class TokenizedOutput {
-	@XmlElementWrapper(name="sentences")
 	@XmlElement(name="sentence")
 	List<Sentence> sentences = new ArrayList<Sentence>();
 

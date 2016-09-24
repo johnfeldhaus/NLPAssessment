@@ -1,13 +1,16 @@
 package com.dr.feldhaus.nlp.model;
 
+import javax.xml.bind.annotation.XmlAttribute;
 import javax.xml.bind.annotation.XmlElement;
 
 public class Token {
 	@XmlElement
 	String text = "";
 	
-	@XmlElement
-	Boolean isNamedEntity = false;
+	// Don't initialize to false so that it does not show up in the
+	// xml output unless it is explicitly set to "true"
+	@XmlAttribute
+	Boolean isNamedEntity;
 
 	public Token(String text, Boolean isNamedEntity) {
 		this.text = text;
@@ -23,6 +26,7 @@ public class Token {
 	}
 
 	public Boolean isNamedEntity() {
+		if(isNamedEntity == null) return false;
 		return isNamedEntity;
 	}
 
