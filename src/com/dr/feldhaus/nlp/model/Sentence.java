@@ -11,12 +11,22 @@ public class Sentence {
 	@XmlElement(name="token")
 	List<Token> tokens = new ArrayList<Token>();
 
+	public Sentence() {}
+	
+	public Sentence(List<Token> tokens) {
+		this.tokens = tokens;
+	}
+
 	public void addToken(Token token) {
 		this.tokens.add(token);
 	}
 
 	public boolean isEmpty() {
 		return tokens.isEmpty();
+	}
+	
+	public List<Token> getTokens() {
+		return tokens;
 	}
 	
 	@Override

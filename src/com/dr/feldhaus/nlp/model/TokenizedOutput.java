@@ -17,6 +17,10 @@ public class TokenizedOutput {
 		this.sentences.add(sentence);
 	}
 	
+	public List<Sentence> getSentences() {
+		return sentences;
+	}
+	
 	@Override
 	public int hashCode() {
 		final int prime = 31;

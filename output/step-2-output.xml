@@ -1,0 +1,1135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tokenizedOutput>
+    <sentences>
+        <sentence>
+            <tokens>
+                <token>
+                    <text>The</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>term</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>"</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>First</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>World</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>War</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>"</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>was</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>first</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>used</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>in</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>September</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>1914</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>by</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>the</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>German</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>philosopher</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>Ernst Haeckel</text>
+                    <isNamedEntity>true</isNamedEntity>
+                </token>
+                <token>
+                    <text>,</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>who</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>claimed</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>that</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>"</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>there</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>is</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>no</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>doubt</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>that</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>the</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>course</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>and</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>character</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>of</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>the</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>feared</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>'</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>European</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>War</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>'</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>.</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>.</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>.</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>will</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>become</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>the</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>first</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>world</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>war</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>in</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>the</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>full</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>sense</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>of</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>the</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>word</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>.</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>"</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>
+</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>
+</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>Why</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>did</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>the</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>war</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>begin</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>?</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+            </tokens>
+        </sentence>
+        <sentence>
+            <tokens>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>The</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>immediate</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>trigger</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>for</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>war</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>was</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>the</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>28</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>June</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>1914</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>assassination</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>of</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>Archduke</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>Franz Ferdinand</text>
+                    <isNamedEntity>true</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>of</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>Austria</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>,</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>heir</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>to</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>the</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>throne</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>of</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>Austria-Hungary</text>
+                    <isNamedEntity>true</isNamedEntity>
+                </token>
+                <token>
+                    <text>,</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>by</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>Yugoslav</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>nationalist</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>Gavrilo Princip</text>
+                    <isNamedEntity>true</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>(</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>19</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>years</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>old</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>at</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>the</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>time</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>)</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>in</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>Sarajevo</text>
+                    <isNamedEntity>true</isNamedEntity>
+                </token>
+                <token>
+                    <text>.</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+            </tokens>
+        </sentence>
+        <sentence>
+            <tokens>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>This</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>set</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>off</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>a</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>diplomatic</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>crisis</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>when</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>Austria-Hungary</text>
+                    <isNamedEntity>true</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>delivered</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>an</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>ultimatum</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>to</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>the</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>Kingdom</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>of</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>Serbia</text>
+                    <isNamedEntity>true</isNamedEntity>
+                </token>
+                <token>
+                    <text>,</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>and</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>entangled</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>international</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>alliances</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>formed</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>over</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>the</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>previous</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>decades</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>were</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>invoked</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>.</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+            </tokens>
+        </sentence>
+        <sentence>
+            <tokens>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>Within</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>weeks</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>,</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>the</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>major</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>powers</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>were</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>at</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>war</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>and</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>the</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>conflict</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>soon</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>spread</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>around</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>the</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text> </text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>world</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+                <token>
+                    <text>.</text>
+                    <isNamedEntity>false</isNamedEntity>
+                </token>
+            </tokens>
+        </sentence>
+    </sentences>
+</tokenizedOutput>
